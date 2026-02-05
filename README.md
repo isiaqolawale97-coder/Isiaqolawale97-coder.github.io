@@ -15,13 +15,14 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+BrightCart: Maximizing Online Retail Performance,https://drive.google.com/file/d/1f70YMdxuPcEYeme3sV7bgcTcS-1e4XhO/view?usp=sharing 
+EXCEL, Conversion rate over time ,average session duration.
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+Navigating the Digital Landscape: Developing an Intelligent Social Media Monitoring System to Strengthen Afritech’s Brand Reputation, SQL and Power BI, Revenue trends overtime.
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+Optimizing Employee Performance and Employee Benefit Programs through Data-Driven Insights, Excel and Tableau, perfomance score across department,location and gender.
 
 
 ## 🛠️ Skills
