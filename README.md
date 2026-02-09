@@ -15,14 +15,21 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-BrightCart: Maximizing Online Retail Performance,https://drive.google.com/file/d/1f70YMdxuPcEYeme3sV7bgcTcS-1e4XhO/view?usp=sharing 
-EXCEL, Conversion rate over time ,average session duration.
+BrightCart: Maximizing Online Retail Performance,
+https://drive.google.com/file/d/1f70YMdxuPcEYeme3sV7bgcTcS-1e4XhO/view?usp=sharing 
+EXCEL,
+Conversion rate over time ,average session duration.
 
 ### Project Title Two
-Navigating the Digital Landscape: Developing an Intelligent Social Media Monitoring System to Strengthen Afritech’s Brand Reputation, SQL and Power BI, Revenue trends overtime.
+Navigating the Digital Landscape: Developing an Intelligent Social Media Monitoring System to Strengthen Afritech’s Brand Reputation, https://drive.google.com/file/d/1MWXArWO47V55ZdxGI8Ph2Y5DM4Z2fQHl/view?usp=sharing
+TOOLS: SQL and Power BI,
+Revenue trends overtime.
 
 ### Project Title Three
-Optimizing Employee Performance and Employee Benefit Programs through Data-Driven Insights, Excel and Tableau, perfomance score across department,location and gender.
+Optimizing Employee Performance and Employee Benefit Programs through Data-Driven Insights,
+https://drive.google.com/file/d/1WzwEkCC7hsspSYbNfBbpGe3GzXYNl9ox/view?usp=sharing
+Excel and Tableau,
+perfomance score across department,location and gender.
 
 
 ## 🛠️ Skills
