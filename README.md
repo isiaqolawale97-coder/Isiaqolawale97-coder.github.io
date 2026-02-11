@@ -16,23 +16,35 @@ This template is set up to showcase your best work. You can easily customize the
 
 ### Project Title One
 Optimizing Employee Performance and Employee Benefit Programs through Data-Driven Insights,
+
 Tech Innovators Inc., a rapidly expanding technology and consulting firm, is experiencing increasing complexity in managing its workforce of over 200 employees.</p>
+
 LINK:https://public.tableau.com/views/tabluevisualsdr/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 TOOL:EXCEL,Tabluea
+
 Dashboard:Employee Performance Dashboard ,Employee Benefit Dashboard.
 
 ### Project Title Two
 Navigating the Digital Landscape: Developing an Intelligent Social Media Monitoring System to Strengthen Afritech’s Brand Reputation,
+
 AfriTech Electronics Ltd. is a leading player in the global consumer electronics industry, widely recognized for its innovation in smartphones, tablets, and wearable technology.</p>
+
 LINK: powerbi_demo.mp4.mp4
+
 TOOLS: PostgreSQL and Power BI,
+
 Dashboard: Customerdata dashboard transaction data dashboard and social media dashboard.
 
 ### Project Title Three
 BrightCart: Maximizing Online Retail Performance,
+
  "BrightCart: Maximizing Online Retail Performance" project aims to provide BrightCart Online Retail with valuable insights into its website traffic, helping to optimize marketing strategies and improve conversion rates,Excel.</p>
+ 
 LINK: excel_demo.mp4.mp4
+
 Tool:Excel and Tableau,
+
 Dashboard: Web traffic performance and user dashboard
 
 
