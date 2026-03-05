@@ -46,7 +46,12 @@ LINK: excel_demo.mp4.mp4
 Tool:Excel and Tableau,
 
 Dashboard: Web traffic performance and user dashboard
+### Project Title four
+Seasonal Analysis and Price Optimization of Hotel Bookings and Ancillary Services,
+"Grand Meridian Hotel (GMH) is a four-star hotel operating in a competitive hospitality market where demand fluctuates significantly by season and guest type. While the hotel maintains strong occupancy levels, management lacks visibility into how different guest segments—particularly corporate and leisure guests—contribute to overall revenue.</p>
 
+Link: hotel-dashboard-demo.mp4.mp4
+tool : Power BI.
 
 ## 🛠️ Skills
 
